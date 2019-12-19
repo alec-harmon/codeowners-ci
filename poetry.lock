@@ -1,0 +1,22 @@
+[[package]]
+category = "main"
+description = "A Python library to parse codeowner files"
+name = "codeowners"
+optional = false
+python-versions = "*"
+version = "0.1.2"
+
+[metadata]
+content-hash = "65b30bd2069ea081d16e3903e10135aed39612b7809d7de5d0987af21fc6fe43"
+python-versions = "^3.5"
+
+[metadata.files]
+codeowners = [
+    {file = "codeowners-0.1.2-cp35-cp35m-manylinux1_x86_64.whl", hash = "sha256:5fc68f543e40bf1a0c6c0a42cb6ae2fe5cc7ca74fe46a0f3a530c12c3d61ba57"},
+    {file = "codeowners-0.1.2-cp36-cp36m-manylinux1_x86_64.whl", hash = "sha256:ea420ca4bfd7e9a89ed92fe9a07135d2782f2bff4401a47b14de760970d7409b"},
+    {file = "codeowners-0.1.2-cp37-cp37m-macosx_10_7_x86_64.whl", hash = "sha256:912894e913bd1f43e3949945c2f757ea00c2717281537d9291f1c5e635b0b516"},
+    {file = "codeowners-0.1.2-cp37-cp37m-manylinux1_x86_64.whl", hash = "sha256:adea7713021595fc1dfde1d9b0e586c5e0d029552d0130bedf5f9d6241a60a74"},
+    {file = "codeowners-0.1.2-cp38-cp38-macosx_10_7_x86_64.whl", hash = "sha256:9d65c77500158de7d50ff57cb96fb3f8d72b82f6f0541cd7e96ff77dfadfe26e"},
+    {file = "codeowners-0.1.2-cp38-cp38-manylinux1_x86_64.whl", hash = "sha256:aca1f3cfad1d9bc942e09d3f4f7f0d826822cdf5a2aceb39b9ad92e03607c051"},
+    {file = "codeowners-0.1.2.tar.gz", hash = "sha256:2cbb59899e97d788a46344529eb713bd3b40fc439068c2ad446291a3ea5cc886"},
+]
